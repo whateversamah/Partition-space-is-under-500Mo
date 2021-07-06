@@ -1,13 +1,13 @@
 #!/bin/bash 
 #######################################################################################
 #Script Name    :alertmemory.sh
-#Description    :send alert mail when avaible partition's space is under 500 Mo.
+#Description    :send alert mail when available partition's space is under 500 Mo.
 #Email          :server.monitor@gmail.com
 #License       : GNU GPL-3	
 #######################################################################################
 ## declare mail variables
 ##email subject 
-subject="avaible partition's space is under 500 Mo"
+subject="available partition's space is under 500 Mo"
 ##sending mail as
 from="server.monitor@example.com"
 ## sending mail to
